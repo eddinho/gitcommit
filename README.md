@@ -6,7 +6,7 @@ Script to commit changes with one cmd
 ```bash
 git clone https://github.com/eddinho/gitcommit.git
 
-sudo cp ~/dev/gitcommit/gitcommit /usr/local/bin/
+sudo cp /your/dev/folder/gitcommit/gitcommit /usr/local/bin/
 
 sudo chmod +x /usr/local/bin/gitcommit
 ```
